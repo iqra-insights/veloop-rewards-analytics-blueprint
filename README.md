@@ -41,6 +41,7 @@ VELOOP Rewards is a rewards and engagement product under development without eno
 | 19 | Assumption and Verification Register (30 assumptions) | `.xlsx`, `.docx` |
 | 20 | Implementation Backlog (22 prioritised items) | `.xlsx`, `.docx` |
 | 21 | Final Consolidated Report | `.docx`, `.pdf` |
+| - | Presentation (7 slides) | `22_Presentation_Task01.pptx` |
 
 ## Key findings (simulated data)
 
@@ -66,6 +67,10 @@ The Task 01 workbook that was supplied contained the **Users entity only**. The 
 - `.docx` - open in Microsoft Word.
 - `.xlsx` - open in Microsoft Excel. Each sheet has a title row and a status legend.
 - GitHub does not preview Word and Excel well; download the files or use the PDF report.
+
+## Dashboard prototype
+
+A working user-analytics dashboard built on the SIMULATED Users data: https://veloop-rewards-landing-page-bay.vercel.app/dashboard/
 
 ## Related project
 
