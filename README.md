@@ -19,7 +19,7 @@ VELOOP Rewards is a rewards and engagement product under development without eno
 ## What is inside
 
 | No. | Deliverable | Files |
-|---|---|---|
+|-----|-------------|-------|
 | 01 | Executive Summary | `.docx` |
 | 02 | Product Data Audit | `.docx` |
 | 03 | Data Coverage Matrix (31 rows, 14 analytics gaps) | `.xlsx` |
@@ -78,5 +78,4 @@ Landing page for VELOOP Rewards: https://veloop-rewards-landing-page-bay.vercel.
 
 ## Author
 
-**Iqra Siddiqui** - Data Analyst Intern, VELOOP Rewards (ID: VLRINT202601918)
-GitHub: [@iqra-insights](https://github.com/iqra-insights)
+**Iqra Siddiqui** - Data Analyst Intern, VELOOP Rewards. GitHub: [@iqra-insights](https://github.com/iqra-insights)
